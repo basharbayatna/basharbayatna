@@ -1,6 +1,7 @@
 # Bashar Bayatna
 
-Mechatronics Engineer | Data Science Enthusiast | Business-Oriented Technologist  
+Junior Data Scientist | Mechatronics Engineer | Product Owner | Python, ML, & SQL
+
 
 ---
 
